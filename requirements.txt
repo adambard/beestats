@@ -1,0 +1,2 @@
+ExtractTable==2.1.2
+Pillow==8.2.0
